@@ -1,0 +1,28 @@
+.m{
+    list-style-image: none;
+    list-style-type: none;
+    display:inline;
+    margin-left: 20px;
+    float: left;
+}
+#m1 li{
+    float: left;
+}
+.con{
+    width: 100%;
+}
+.in{
+    width: 200px;
+}
+.main{
+    margin: 50px;
+}
+.tw{
+    margin-top: 12px;
+    width: 100px;
+}
+
+.form{
+    width:20%;
+
+}
