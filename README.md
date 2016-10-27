@@ -8,4 +8,4 @@ a simple ReactJS with react router
 
 >1. cd react-demo
 >2. npm install
->3. npm run dev
+>3. npm run start
